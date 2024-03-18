@@ -10,23 +10,9 @@
   <img src="https://user-images.githubusercontent.com/96610952/220712126-080e101f-2260-4445-b3d8-35dd28ae65c7.svg" width="600px">
 </div>
 
----
 <br>
-<div align="center">
-  <div align="center">
-    <img src="https://img.shields.io/badge/python-3.9.2rc1-blue">
-    <br>
-    <img src="https://img.shields.io/badge/mediapipe-0.9.0.1-pink">
-    <img src="https://img.shields.io/badge/opencv-4.7.0.68-pink">
-    <img src="https://img.shields.io/badge/ffmpeg-0.2.0-pink">
-    <img src="https://img.shields.io/badge/numpy-1.24.1-pink">
-    <img src="https://img.shields.io/badge/pandas-1.5.3-pink">
-    <br>
-    <img src="https://img.shields.io/badge/dtaidistance-2.3.10-pink">
-    <img src="https://img.shields.io/badge/-with edited dtw.py-pink">
-  </div>
- </div>
 <br>
+<h4>AI 모델 깃허브 주소 (https://github.com/junyoun99/propose) </h4>
 
 ---
 
